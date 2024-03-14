@@ -1,11 +1,8 @@
 blinker==1.7.0
-clarabel==0.7.1
 click==8.1.7
 colorama==0.4.6
 contourpy==1.2.0
-cvxpy==1.4.2
 cycler==0.12.1
-ecos==2.0.13
 Flask==3.0.2
 fonttools==4.49.0
 gunicorn==21.2.0
@@ -17,7 +14,6 @@ mapping==0.1.6
 MarkupSafe==2.1.5
 matplotlib==3.8.3
 numpy==1.26.4
-osqp==0.6.5
 packaging==23.2
 pandas==2.2.1
 pillow==10.2.0
